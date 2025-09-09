@@ -1,6 +1,6 @@
 ## Oi pessoal :heart:
 
-Eu sou Geovana Beatriz, sou uma Programadora Front End, estou aprendendo e criando projetos com:
+Eu sou Geovana Beatriz, sou uma Desenvolvedora Front End, estou aprendendo e criando projetos com:
 <br>
 <br>
 <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/aa3b4d6a-2669-426f-862f-9149b44b537a" />
