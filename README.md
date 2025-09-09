@@ -15,7 +15,7 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 Se conecte comigo!!
 <br>
 <a href="https://www.instagram.com/starsyuuri/" target="_blank"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/8644bde8-b5c9-48a3-85f3-dfe153a1a749" /><a/>
-<a href="https://www.instagram.com/starsyuuri/" target="_blank"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/85937f2d-0a97-4ab1-8dcd-d953dcf24f83" /><a/>
+<a href="[https://www.instagram.com/starsyuuri/](https://www.linkedin.com/in/geovanabeatriz-dev/)" target="_blank"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/85937f2d-0a97-4ab1-8dcd-d953dcf24f83" /><a/>
 <br>
 <br>
 <br>
