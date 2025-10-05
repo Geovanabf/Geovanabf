@@ -30,14 +30,18 @@ Sou **Desenvolvedora Front-End em formação**, apaixonada por transformar ideia
 ---
 
 ## 🌐 Vamos nos conectar?
-<br>
+<br> 
+
 <a href="https://www.instagram.com/starsyuuri/" target="_blank"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/8644bde8-b5c9-48a3-85f3-dfe153a1a749" /><a/>
 <a href="https://www.linkedin.com/in/geovanabeatriz-dev/" target="_blank"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/85937f2d-0a97-4ab1-8dcd-d953dcf24f83" /><a/>
+
 <br>
 <br>
 <br>
 <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanabf)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanabf&layout=compact)
